@@ -2,11 +2,11 @@
   "title": "test survey",
   "questions": [
     {
-      "body": "What is your full name?",
+      "body": "Is this a good time to check in?",
       "type": "voice"
     },
     {
-      "body": "In a scale of 1 to 9, how would you rate the quality of this call?",
+      "body": "On a scale of 1( :( ) to 4 ( :) ), how are you feeling right now?",
       "type": "numeric"
     }
   ]
